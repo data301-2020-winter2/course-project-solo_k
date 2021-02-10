@@ -1,5 +1,5 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=362021&assignment_repo_type=GroupAssignmentRepo)
-# Group YYY - 
+# Group Solo_K - 
 
 - Your title can change over time.
 
@@ -9,40 +9,24 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-Describe your topic/interest in this dataset - answer in about 150-200 words. Some questions you may wish to consider:
+I would like to use this data to look at affordability of housing in California based in on family size, age of occupants and their location with respect to the ocean. 
+Since this data also includes latitude and longitude values, it would be great to build a dashboard that also has a map feature. 
 
-What do you hope to do with your analytics project?
-
-Why are you interested in this topic or dataset?
-
-Do you have any questions you specifically want to explore?
-
-Could you imagine building a user-facing Dashboard with this dataset?
-
-Note: In the final weeks of the course you will be building a Dashboard with your data so choose wisely!
 
 ## Describe your dataset in about 150-200 words
-escribe your dataset in about 150-200 words: Consider the following questions to guide you in your exploration:
 
-Who: Which company/agency/organization provided this data?
-
-What: What is in your data?
-
-When: When was your data collected (for example, for which years)?
-
-Why: What is the purpose of your dataset? Is it for transparency/accountability, public interest, fun, learning, etc…
-
-How: How was your data collected? Was it a human collecting the data? Historical records digitized? Server logs?
-
+This data is sourced from 1990 census data in California. The data includes information about: longitude, latitude, housing median age, total rooms, total bedrooms, population, households, median income, median house value and ocean proximity. This dataset was posted in Kaggle to be used for student learning how to implement machine learning and data manipulation, but the original source was a governmental database as it cenuus data. The orginal data collection method is unknown, although given the age of the data is was likely collected on paper census forms before being transformed into digital data.
 
 ## Team Members
 
-- Kathleen Wheeler:
+Kathleen Wheeler
 
 ## References
 
-{Add your stuff here}
-
-
-Additional Guidance: Your audience is fellow data scientists. You probably will not need more than 150 words to describe your dataset. All the questions above do not need to be answered, it’s more to guide your exploration and think a little bit about the context of your data. It is also possible you will not know the answers to some of the questions above, that is FINE - data scientists are often faced with the challenge of analyzing data from unknown sources. Do your best, acknowledge the limitations of your data as well as your understanding of it. Also, make it clear what you’re speculating about. For example, “I speculate that the {…column_name…} column must be related to {….} because {….}.”
+This data was initially featured in the following paper:
+Pace, R. Kelley, and Ronald Barry. "Sparse spatial autoregressions." Statistics & Probability Letters 33.3 (1997): 291-297.
+and it was encountered it in 'Hands-On Machine learning with Scikit-Learn and TensorFlow' by Aurélien Géron.
+Aurélien Géron wrote:
+This dataset is a modified version of the California Housing dataset available from:
+Luís Torgo's page (University of Porto)
 
