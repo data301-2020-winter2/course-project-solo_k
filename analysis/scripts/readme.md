@@ -1,1 +1,1 @@
-This is a folder wehre new scripts will be stored
+This is a folder where new scripts will be stored
